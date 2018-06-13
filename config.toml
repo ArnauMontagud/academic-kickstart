@@ -226,22 +226,42 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "mailto:arnau.montagud@gmail.com"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/ArnauMontagud"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/arnaumontagud"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=IYpowdAAAAAJ&hl=en"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0002-7696-1241"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Arnau_Montagud"
+    
+  [[params.social]]
+    icon = "researcherid"
+    icon_pack = "ai"
+    link = "http://www.researcherid.com/rid/B-8001-2008"
+
+  [[params.social]]
+    icon = "figshare"
+    icon_pack = "ai"
+    link = "https://figshare.com/authors/Arnau_Montagud/645477"
 
 
 # Navigation Links
@@ -262,20 +282,30 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
+
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Talks"
+  url = "#talks"
+weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
+
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+  name = "CV"
+  url = "files/cv.pdf"
+weight = 5
 
 [[menu.main]]
   name = "Contact"
