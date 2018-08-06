@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Institut Curie, France", url = "http://sysbio.curie.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait_am.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "arnau.montagud@gmail.com"
   address = "75005 Paris"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
