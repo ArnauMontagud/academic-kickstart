@@ -1,7 +1,7 @@
 +++
 title = "Vanillin cell sensor"
 date = "2007-01-01"
-authors = ["Guillermo Rodrigo", "Arnau Montagud", "Alberto Aparici", "Maria Cristina Aroca", "Minerva Baguena", "Javier Carrera", "Carlos Edo", "Pedro {FernA°ndez de CA≥rdoba}", "Albert Ferrando", "Gustavo Fuertes", "Diana Gimenez", "Caterina Mata", "Jose Vicente Medrano", "Carlos Navarrete", "Emilio Navarro", "JesA∫s Salgado", "Pablo Tortosa", "Javier F UrchueguA-a", "Alfonso Jaramillo"]
+authors = ["Guillermo Rodrigo", "Arnau Montagud", "Alberto Aparici", "Maria Cristina Aroca", "Minerva Baguena", "Javier Carrera", "Carlos Edo", "Pedro Fern√°ndez de C√≥rdoba", "Albert Ferrando", "Gustavo Fuertes", "Diana Gimenez", "Caterina Mata", "Jose Vicente Medrano", "Carlos Navarrete", "Emilio Navarro", "Jes√∫s Salgado", "Pablo Tortosa", "Javier F Urchuegu√≠a", "Alfonso Jaramillo"]
 publication_types = ["2"]
 publication = "IET Synthetic Biology, (1), 1-2, _pp. 74_, https://doi.org/10.1049/iet-stb:20060003"
 publication_short = "IET Synthetic Biology, (1), 1-2, _pp. 74_, https://doi.org/10.1049/iet-stb:20060003"
