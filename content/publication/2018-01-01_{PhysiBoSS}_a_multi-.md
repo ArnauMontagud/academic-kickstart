@@ -1,5 +1,5 @@
 +++
-title = "{PhysiBoSS}: a multi-scale agent based modelling framework integrating physical dimension and cell signalling"
+title = "PhysiBoSS: a multi-scale agent based modelling framework integrating physical dimension and cell signalling"
 date = "2018-01-01"
 authors = ["Gaelle Letort", "Arnau Montagud", "Gautier Stoll", "Randy Heiland", "Emmanuel Barillot", "Paul Macklin", "Andrei Zinovyev", "Laurence Calzone"]
 publication_types = ["2"]
@@ -8,7 +8,7 @@ publication_short = "bioRxiv, _pp. 267070_, https://doi.org/10.1101/267070"
 abstract = ""
 abstract_short = ""
 image_preview = ""
-selected = false
+selected = true
 projects = []
 tags = []
 url_pdf = ""
