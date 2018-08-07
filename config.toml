@@ -262,6 +262,11 @@ enableGitInfo = false
     link = "http://www.researcherid.com/rid/B-8001-2008"
 
   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/arnaumontagud"
+
+  [[params.social]]
     icon = "figshare"
     icon_pack = "ai"
     link = "https://figshare.com/authors/Arnau_Montagud/645477"
