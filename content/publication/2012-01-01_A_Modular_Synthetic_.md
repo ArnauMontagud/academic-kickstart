@@ -1,7 +1,7 @@
 +++
 title = "A Modular Synthetic Device To Calibrate Promoters"
 date = "2012-01-01"
-authors = ["Daniel Gamermann", "Arnau Montagud", "Pablo Aparicio", "Emilio Navarro", "Julián Triana", "Francisco R Villatoro", "Javier F Urchueguia", "Pedro Fernández de Córdoba"]
+authors = ["Daniel Gamermann", "Arnau Montagud", "Pablo Aparicio", "Emilio Navarro", "JuliA¡n Triana", "Francisco R Villatoro", "Javier F UrchueguA-a", "Pedro FernA¡ndez De CA³rdoba"]
 publication_types = ["2"]
 publication = "Journal of Biological Systems, (20), 1, _pp. 37_, https://doi.org/10.1142/S0218339012500015"
 publication_short = "Journal of Biological Systems, (20), 1, _pp. 37_, https://doi.org/10.1142/S0218339012500015"

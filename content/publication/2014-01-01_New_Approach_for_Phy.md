@@ -1,7 +1,7 @@
 +++
 title = "New Approach for Phylogenetic Tree Recovery Based on Genome-Scale Metabolic Networks."
 date = "2014-01-01"
-authors = ["Daniel Gamermann", "Arnau Montagud", "Jose Alberto Conejero", "Javier F. Urchueguia", "Pedro Fernández de Córdoba"]
+authors = ["Daniel Gamermann", "Arnau Montagud", "Jose Alberto Conejero", "Javier F. UrchueguA-a", "Pedro FernA¡ndez de CA³rdoba"]
 publication_types = ["2"]
 publication = "Journal of Computational Biology, (21), 7, _pp. 508--19_, https://doi.org/10.1089/cmb.2013.0150"
 publication_short = "Journal of Computational Biology, (21), 7, _pp. 508--19_, https://doi.org/10.1089/cmb.2013.0150"

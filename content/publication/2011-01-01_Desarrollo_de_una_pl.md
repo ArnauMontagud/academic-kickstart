@@ -1,10 +1,10 @@
 +++
-title = "Desarrollo de una plataforma computacional para el modelado metab髄ico de un microorganismo"
+title = "Desarrollo de una plataforma computacional para el modelado metab贸lico de un microorganismo"
 date = "2011-01-01"
-authors = ["Raymari Reyes", "Jorge Garrido", "Ram髇 A Jaime", "Vinelia Vazquez", "Juli醤 Triana", "Lizzael Villar", "Juan C Castro", "Pedro Fern醤dez de C髍doba", "Javier F Urchueguia", "Emilio Navarro", "Arnau Montagud"]
+authors = ["Raymari Reyes", "Jorge Garrido", "RamA硁 A Jaime", "Vinelia Vazquez", "JuliA Triana", "Lizzael Villar", "Juan C Castro", "Pedro FernAdez de CA硆doba", "Javier F UrchueguA-a", "Emilio Navarro", "Arnau Montagud"]
 publication_types = ["2"]
-publication = "Nereis. Revista Iberoamricana de M閠odos, Modelizaci髇 y Simulaci髇 Interdisciplinar., (3), _pp. 25--31_"
-publication_short = "Nereis. Revista Iberoamricana de M閠odos, Modelizaci髇 y Simulaci髇 Interdisciplinar., (3), _pp. 25--31_"
+publication = "Nereis. Revista Iberoamricana de M茅todos, Modelizaci贸n y Simulaci贸n Interdisciplinar., (3), _pp. 25--31_"
+publication_short = "Nereis. Revista Iberoamricana de M茅todos, Modelizaci贸n y Simulaci贸n Interdisciplinar., (3), _pp. 25--31_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""

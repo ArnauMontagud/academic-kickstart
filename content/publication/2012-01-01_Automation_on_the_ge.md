@@ -1,7 +1,7 @@
 +++
 title = "Automation on the generation of genome-scale metabolic models."
 date = "2012-01-01"
-authors = ["Raymari Reyes", "Daniel Gamermann", "Arnau Montagud", "David Fuente", "Julián Triana", "Javier F Urchueguia", "Pedro Fernández de Córdoba"]
+authors = ["Raymari Reyes", "Daniel Gamermann", "Arnau Montagud", "David Fuente", "JuliA¡n Triana", "Javier F UrchueguA-a", "Pedro FernA¡ndez de CA³rdoba"]
 publication_types = ["2"]
 publication = "Journal of computational biology : a journal of computational molecular cell biology, (19), 12, _pp. 1295--306_, https://doi.org/10.1089/cmb.2012.0183"
 publication_short = "Journal of computational biology : a journal of computational molecular cell biology, (19), 12, _pp. 1295--306_, https://doi.org/10.1089/cmb.2012.0183"

@@ -1,10 +1,10 @@
 +++
-title = "Herramienta para la optimizaci髇 de flujos metab髄icos en un sistema biol骻ico"
+title = "Herramienta para la optimizaci贸n de flujos metab贸licos en un sistema biol贸gico"
 date = "2014-01-01"
-authors = ["R. A. Jaime-Infante", "Z. Hernandez-Martinez", "J. Triana-Dopico", "O. Fosado-Tellez", "Arnau Montagud", "Daniel Gamermann", "Pedro Fern醤dez de C髍doba", "Javier F Urchueguia"]
+authors = ["R. A. Jaime-Infante", "Z. HernAdez-MartA-nez", "J. Triana-Dopico", "O. Fosado-Tellez", "Arnau Montagud", "Daniel Gamermann", "Pedro FernAdez de CA硆doba", "Javier F UrchueguA-a"]
 publication_types = ["2"]
-publication = "Investigaci髇 Operacional, (35), 2, _pp. 96--103_"
-publication_short = "Investigaci髇 Operacional, (35), 2, _pp. 96--103_"
+publication = "Investigaci贸n Operacional, (35), 2, _pp. 96--103_"
+publication_short = "Investigaci贸n Operacional, (35), 2, _pp. 96--103_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""

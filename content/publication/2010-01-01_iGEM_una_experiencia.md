@@ -1,10 +1,10 @@
 +++
-title = "iGEM: una experiencia educativa única de trabajo en grupos multidisciplinares en el campo de la biologia."
+title = "iGEM: una experiencia educativa Ãºnica de trabajo en grupos multidisciplinares en el campo de la biologia."
 date = "2010-01-01"
-authors = ["Miguel Pitarch", "Arnau Montagud", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguia"]
+authors = ["Miguel Pitarch", "Arnau Montagud", "Emilio Navarro", "Pedro FernA¡ndez de CA³rdoba", "Javier F UrchueguA-a"]
 publication_types = ["2"]
-publication = "Revista de la Facultad de Educación, (17), _pp. 57--63_"
-publication_short = "Revista de la Facultad de Educación, (17), _pp. 57--63_"
+publication = "Revista de la Facultad de EducaciÃ³n, (17), _pp. 57--63_"
+publication_short = "Revista de la Facultad de EducaciÃ³n, (17), _pp. 57--63_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""

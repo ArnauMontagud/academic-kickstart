@@ -1,7 +1,7 @@
 +++
 title = "Introduction to Synthetic Biology"
 date = "2009-01-01"
-authors = ["Arnau Montagud", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguia"]
+authors = ["Arnau Montagud", "Emilio Navarro", "Pedro FernA¡ndez de CA³rdoba", "Javier F UrchueguA-a"]
 publication_types = ["5"]
 publication = "NA"
 publication_short = "NA"
