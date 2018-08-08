@@ -1,17 +1,21 @@
 +++
 title = "Introduction to Synthetic Biology"
 date = "2009-01-01"
-authors = ["Arnau Montagud", "Emilio Navarro", "Pedro FernA°ndez de CA≥rdoba", "Javier F UrchueguA-a"]
+authors = ["Arnau Montagud", "Emilio Navarro", "Pedro Fern√°ndez de C√≥rdoba", "Javier F Urchuegu√≠a"]
 publication_types = ["5"]
-publication = "NA"
-publication_short = "NA"
-abstract = "NA"
+publication = "PoliCLICK"
+publication_short = "PoliCLICK"
+abstract = "On the context of iGEM Europe organization, we agreed to develop a set of educational materials that would cover talks and lectures to be taken by iGEM participants. In order to test this material on a real-like situation, we organized this course with students from either technical or biological backgrounds. Valencia iGEM 2008 team core has sprung from these student.
+The aims of this course are diverse:
+    First, is a way to organize the series of talks and lectures that we think should be taken by a given iGEM participant.
+    Second, is a way to gather educational material focused on people that want to have a broader perspective of Synthetic Biology.
+    Third, is a perfect starting point to whoever wants to take a step on this field."
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = ""
+url_pdf = "http://openwetware.org/wiki/Intertech:iSB2008"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

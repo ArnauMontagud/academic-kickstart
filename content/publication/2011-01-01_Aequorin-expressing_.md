@@ -1,7 +1,7 @@
 +++
 title = "Aequorin-expressing yeast emits light under electric control."
 date = "2011-01-01"
-authors = ["Cristina Vilanova", "Angeles Hueso", "Carles Palanca", "Guillem Marco", "Miguel Pitarch", "Eduardo Otero", "Juny Crespo", "Jerzy Szablowski", "Sara Rivera", "Laura DomA-nguez-EscribA ", "Emilio Navarro", "Arnau Montagud", "Pedro FernA�ndez de CA�rdoba", "Asier GonzA�lez", "JoaquA-n AriA�o", "AndrA(C)s Moya", "Javier F UrchueguA-a", "Manuel Porcar"]
+authors = ["Cristina Vilanova", "Angeles Hueso", "Carles Palanca", "Guillem Marco", "Miguel Pitarch", "Eduardo Otero", "Juny Crespo", "Jerzy Szablowski", "Sara Rivera", "Laura Domínguez-Escribà ", "Emilio Navarro", "Arnau Montagud", "Pedro Fernández de Córdoba", "Asier González", "Joaquín Ariño", "Andrés Moya", "Javier F Urchueguía", "Manuel Porcar"]
 publication_types = ["2"]
 publication = "Journal of Biotechnology, (152), _pp. 93--5_, https://doi.org/10.1016/j.jbiotec.2011.01.005"
 publication_short = "Journal of Biotechnology, (152), _pp. 93--5_, https://doi.org/10.1016/j.jbiotec.2011.01.005"
@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = ""
+url_pdf = "http://www.ncbi.nlm.nih.gov/pubmed/21291926"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
