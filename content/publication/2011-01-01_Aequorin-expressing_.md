@@ -1,5 +1,5 @@
 +++
-title = "Aequorin-expressing yeast emits light under electric control."
+title = "Aequorin-expressing yeast emits light under electric control"
 date = "2011-01-01"
 authors = ["Cristina Vilanova", "Angeles Hueso", "Carles Palanca", "Guillem Marco", "Miguel Pitarch", "Eduardo Otero", "Juny Crespo", "Jerzy Szablowski", "Sara Rivera", "Laura Domínguez-Escribà ", "Emilio Navarro", "Arnau Montagud", "Pedro Fernández de Córdoba", "Asier González", "Joaquín Ariño", "Andrés Moya", "Javier F Urchueguía", "Manuel Porcar"]
 publication_types = ["2"]

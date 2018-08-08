@@ -1,5 +1,5 @@
 +++
-title = "iGEM: una experiencia educativa única de trabajo en grupos multidisciplinares en el campo de la biologia."
+title = "iGEM: una experiencia educativa única de trabajo en grupos multidisciplinares en el campo de la biologia"
 date = "2010-01-01"
 authors = ["Miguel Pitarch", "Arnau Montagud", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía"]
 publication_types = ["2"]

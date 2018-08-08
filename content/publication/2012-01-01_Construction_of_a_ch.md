@@ -1,5 +1,5 @@
 +++
-title = "Construction of a chassis for hydrogen production: physiological and molecular characterization of a Synechocystis sp. PCC6803 mutant lacking a functional bidirectional hydrogenase."
+title = "Construction of a chassis for hydrogen production: physiological and molecular characterization of a Synechocystis sp. PCC6803 mutant lacking a functional bidirectional hydrogenase"
 date = "2012-01-01"
 authors = ["Filipe Pinto", "Karin A Van Elburg", "Catarina C Pacheco", "Miguel Lopo", "Josselin Noirel", "Arnau Montagud", "Javier F Urchueguía", "Phillip C Wright", "Paula Tamagnini"]
 publication_types = ["2"]

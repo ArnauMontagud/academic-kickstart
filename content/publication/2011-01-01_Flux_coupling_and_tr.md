@@ -1,5 +1,5 @@
 +++
-title = "Flux coupling and transcriptional regulation within the metabolic network of the photosynthetic bacterium Synechocystis sp. PCC6803."
+title = "Flux coupling and transcriptional regulation within the metabolic network of the photosynthetic bacterium Synechocystis sp. PCC6803"
 date = "2011-01-01"
 authors = ["Arnau Montagud", "Aleksej Zelezniak", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía", "Kiran Raosaheb Patil"]
 publication_types = ["2"]

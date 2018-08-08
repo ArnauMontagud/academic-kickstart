@@ -1,5 +1,5 @@
 +++
-title = "Experimental and Modeling Analysis of Synechocystis sp. PCC 6803 Growth."
+title = "Experimental and Modeling Analysis of Synechocystis sp. PCC6803 Growth"
 date = "2012-01-01"
 authors = ["Miguel Lopo", "Arnau Montagud", "Emilio Navarro", "Isabel Cunha", "Andrea Zille", "Pedro Fernández de Córdoba", "Pedro Moradas-Ferreira", "Paula Tamagnini", "Javier F Urchueguía"]
 publication_types = ["2"]

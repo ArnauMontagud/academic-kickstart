@@ -1,5 +1,5 @@
 +++
-title = "Automation on the generation of genome-scale metabolic models."
+title = "Automation on the generation of genome-scale metabolic models"
 date = "2012-01-01"
 authors = ["Raymari Reyes", "Daniel Gamermann", "Arnau Montagud", "David Fuente", "Julián Triana", "Javier F Urchueguía", "Pedro Fernández de Córdoba"]
 publication_types = ["2"]

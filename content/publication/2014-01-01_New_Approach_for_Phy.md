@@ -1,5 +1,5 @@
 +++
-title = "New Approach for Phylogenetic Tree Recovery Based on Genome-Scale Metabolic Networks."
+title = "New Approach for Phylogenetic Tree Recovery Based on Genome-Scale Metabolic Networks"
 date = "2014-01-01"
 authors = ["Daniel Gamermann", "Arnau Montagud", "Jose Alberto Conejero", "Javier F. Urchueguía", "Pedro Fernández de Córdoba"]
 publication_types = ["2"]

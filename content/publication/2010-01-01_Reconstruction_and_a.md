@@ -1,5 +1,5 @@
 +++
-title = "Reconstruction and analysis of genome-scale metabolic model of a photosynthetic bacterium."
+title = "Reconstruction and analysis of genome-scale metabolic model of a photosynthetic bacterium"
 date = "2010-01-01"
 authors = ["Arnau Montagud", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía", "Kiran Raosaheb Patil"]
 publication_types = ["2"]
