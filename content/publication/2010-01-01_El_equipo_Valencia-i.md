@@ -1,7 +1,7 @@
 +++
 title = "El equipo Valencia-iGEM diseña y construye la primera pantalla biológica"
 date = "2010-01-01"
-authors = ["Miguel Pitarch", "Juny Crespo", "Angeles Hueso", "Guillem Marco", "Eduardo Otero", "Carles Palanca", "Sara Rivera", "Cristina Vilanova", "Jerzy Szablowski", "Laura Domínguez-Escribà ", "Arnau Montagud", "Emilio Navarro", "Manuel Porcar", "Juli Peretó, "JJ Pérez", "Javier F Urchueguía", "Pedro Fernádez de Córdoba"]
+authors = ["Miguel Pitarch", "Juny Crespo", "Angeles Hueso", "Guillem Marco", "Eduardo Otero", "Carles Palanca", "Sara Rivera", "Cristina Vilanova", "Jerzy Szablowski", "Laura Domínguez-Escribà", "Arnau Montagud", "Emilio Navarro", "Manuel Porcar", "Juli Peretó", "JJ Pérez", "Javier F Urchueguía", "Pedro Fernández de Córdoba"]
 publication_types = ["2"]
 publication = "Matematicalia, (6), 3, _pp. 1--5_"
 publication_short = "Matematicalia, (6), 3, _pp. 1--5_"k
