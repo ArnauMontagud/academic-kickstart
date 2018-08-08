@@ -1,11 +1,11 @@
 +++
-title = "Metabolic flux analysis of the hydrogen production potential in {Synechocystis} sp. {PCC}6803"
+title = "Metabolic flux analysis of the hydrogen production potential in Synechocystis sp. PCC6803"
 date = "2009-01-01"
-authors = ["Emilio Navarro", "Arnau Montagud", "Pedro Fern√°ndez de C√≥rdoba", "Javier F Urchuegu√≠a"]
+authors = ["Emilio Navarro", "Arnau Montagud", "Pedro Fern·ndez de CÛrdoba", "Javier F Urchueguia"]
 publication_types = ["2"]
 publication = "International Journal of Hydrogen Energy, (34), 21, _pp. 8828--8838_, https://doi.org/10.1016/j.ijhydene.2009.08.036"
 publication_short = "International Journal of Hydrogen Energy, (34), 21, _pp. 8828--8838_, https://doi.org/10.1016/j.ijhydene.2009.08.036"
-abstract = ""
+abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
