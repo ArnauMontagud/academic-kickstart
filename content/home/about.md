@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Systems Biology",
     "Logical Models",
-    "Data deconvolution"
+    "Data deconvolution",
+    "Data integration"
   ]
 
 # List your qualifications (such as academic degrees).
