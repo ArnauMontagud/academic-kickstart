@@ -237,11 +237,6 @@ enableGitInfo = false
     link = "https://github.com/ArnauMontagud"
     
   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/arnaumontagud"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=IYpowdAAAAAJ&hl=en"
@@ -255,6 +250,11 @@ enableGitInfo = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Arnau_Montagud"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/arnaumontagud"
     
   [[params.social]]
     icon = "researcherid"
