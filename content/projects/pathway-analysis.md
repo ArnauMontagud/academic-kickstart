@@ -3,7 +3,7 @@
 date = 2018-08-26T00:00:00
 
 # Project title.
-title = "Data Analysis"
+title = "Pathway-based Analysis"
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
