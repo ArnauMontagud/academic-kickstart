@@ -9,7 +9,7 @@ title = "Boolean Modelling"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "bubbles.jpg"
+image_preview = "projects/bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/bubbles-wide.jpg"
+image = "projects/Figure_4.tif"
 #caption = "My caption :smile:"
 
 +++
