@@ -298,7 +298,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-weight = 3
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -313,7 +313,7 @@ weight = 3
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-weight = 5
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
