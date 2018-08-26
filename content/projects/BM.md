@@ -3,7 +3,7 @@
 date = 2018-08-26T00:00:00
 
 # Project title.
-title = "Modelling"
+title = "Boolean Modelling"
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
