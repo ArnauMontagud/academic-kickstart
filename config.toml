@@ -188,7 +188,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -295,15 +295,15 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-#[[menu.main]]
-#  name = "Talks"
-#  url = "#talks"
-#weight = 3
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
@@ -313,12 +313,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-weight = 4
+weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
