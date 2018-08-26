@@ -40,5 +40,18 @@ filter_default = 0
 #   name = "Other"
 #   tag = ".demo"
 
+ [[filter]]
+   name = "All"
+   tag = "*"
+   
+ [[filter]]
+   name = "Data Analysis"
+   tag = ".data-analysis"
+
+ [[filter]]
+   name = "Modelling"
+   tag = ".modelling"
+
+
 +++
 
