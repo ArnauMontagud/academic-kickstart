@@ -7,7 +7,7 @@ date = 2018-08-26T00:00:00
 title = "Multi-scale Modelling"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
