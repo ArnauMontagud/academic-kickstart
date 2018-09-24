@@ -20,6 +20,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+url_custom = [ {name = "Twitter thread", url = "https://twitter.com/ArnauMontagud/status/1026394060863483904"}]
+
 math = true
 highlight = true
 [header]
