@@ -21,8 +21,12 @@ url_video = ""
 url_poster = ""
 url_source = ""
 math = true
+url_custom = [
+{name = "Twitter thread", url = "https://twitter.com/ArnauMontagud/status/1039400648142254080"}]
+
 highlight = true
 [header]
 image = ""
 caption = ""
+
 +++
