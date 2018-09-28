@@ -312,7 +312,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "content/CV/CV Arnau Montagud 2018 09 28.pdf"
+  url = "content/CV/CV_Arnau_Montagud_20180928.pdf"
   weight = 5
 
 [[menu.main]]
