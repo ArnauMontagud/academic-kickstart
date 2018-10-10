@@ -262,11 +262,6 @@ enableGitInfo = false
     link = "https://publons.com/author/1351424/arnau-montagud"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "https://twitter.com/arnaumontagud"
-
-  [[params.social]]
     icon = "figshare"
     icon_pack = "ai"
     link = "https://figshare.com/authors/Arnau_Montagud/645477"
@@ -276,6 +271,11 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/arnaumontagud"
     
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/arnaumontagud"
+  
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
