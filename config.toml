@@ -252,14 +252,14 @@ enableGitInfo = false
     link = "https://www.researchgate.net/profile/Arnau_Montagud"
 
   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/arnaumontagud"
-    
-  [[params.social]]
     icon = "researcherid"
     icon_pack = "ai"
     link = "http://www.researcherid.com/rid/B-8001-2008"
+
+  [[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "https://publons.com/author/1351424/arnau-montagud"
 
   [[params.social]]
     icon = "twitter"
@@ -271,6 +271,11 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://figshare.com/authors/Arnau_Montagud/645477"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/arnaumontagud"
+    
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
