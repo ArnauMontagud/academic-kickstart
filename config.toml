@@ -62,12 +62,12 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Institut Curie, France", url = "http://sysbio.curie.fr/" } ]
+  organizations = [ { name = "Barcelona Supercomputing Center, Spain", url = "https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology/team-people" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait_am.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "arnau.montagud@gmail.com"
-  address = "75005 Paris"
+  address = "08034 Barcelona"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -109,7 +109,7 @@ enableGitInfo = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04 PM"
 
   # Show estimated reading time for posts?
   reading_time = true
