@@ -317,7 +317,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "files/CV_Arnau_Montagud_20180928.pdf"
+  url = "files/CV_Arnau_Montagud_20190104.pdf"
   weight = 5
 
 [[menu.main]]
