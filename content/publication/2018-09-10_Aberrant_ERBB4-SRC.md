@@ -1,6 +1,6 @@
 +++
 title = "Aberrant ERBB4-SRC Signaling as a Hallmark of Group 4 Medulloblastoma Revealed by Integrative Phosphoproteomic Profiling"
-date = "2018-01-01"
+date = "2018-09-10"
 authors = ["Antoine Forget", "Loredana Martignetti", "Stéphanie Puget", "Laurence Calzone", "Sebastian Brabetz", "Daniel Picard", "Arnau Montagud", "Stéphane Liva", "Alexandre Sta", "Florent Dingli", "Guillaume Arras", "Jaime Rivera", "Damarys Loew", "Aurore Besnard", "Joëlle Lacombe", "Mélanie Pagès", "Pascale Varlet", "Christelle Dufour", "Hua Yu", "Audrey L. Mercier", "Emilie Indersie", "Anaïs Chivet", "Sophie Leboucher", "Laura Sieber", "Kevin Beccaria", "Michael Gombert", "Frauke D. Meyer", "Nan Qin", "Jasmin Bartl", "Lukas Chavez", "Konstantin Okonechnikov", "Tanvi Sharma", "Venu Thatikonda", "Franck Bourdeaut", "Celio Pouponnot", "Vijay Ramaswamy", "Andrey Korshunov", "Arndt Borkhardt", "Guido Reifenberger", "Patrick Poullet", "Michael D. Taylor", "Marcel Kool", "Stefan M. Pfister", "Daisuke Kawauchi", "Emmanuel Barillot", "Marc Remke", "Olivier Ayrault"]
 publication_types = ["2"]
 publication = "Cancer Cell, (34), 3, _pp. 379--395.e7_, https://doi.org/10.1016/j.ccell.2018.08.002"

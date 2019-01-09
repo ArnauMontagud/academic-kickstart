@@ -1,6 +1,6 @@
 +++
 title = "Improving a Synechocystis-based photoautotrophic chassis through systematic genome mapping and validation of neutral sites"
-date = "2015-01-01"
+date = "2015-10-21"
 authors = ["Filipe Pinto", "Catarina C Pacheco", "Paulo Oliveira", "Arnau Montagud", "Andrew Landels", "Narciso Couto", "Phillip C Wright", "Javier F Urchueguía", "Paula Tamagnini"]
 publication_types = ["2"]
 publication = "DNA Research, (22), 6, _pp. 425--437_, https://doi.org/10.1093/dnares/dsv024"

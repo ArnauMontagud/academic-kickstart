@@ -1,6 +1,6 @@
 +++
 title = "Synechocystis sp. PCC6803 metabolic models for the enhanced production of biofuels"
-date = "2015-01-01"
+date = "2015-06-01"
 authors = ["Arnau Montagud", "Daniel Gamermann", "Pedro Fernández de Córdoba", "Javier F Urchueguía"]
 publication_types = ["2"]
 publication = "Critical Reviews in Biotechnology, (35), 2, _pp. 184--198_, https://doi.org/10.3109/07388551.2013.829799"
