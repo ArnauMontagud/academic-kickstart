@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-I completed my BSc in Biology and MSc in Cell Biology by the University of Valencia. After participating in Synthetic Biology’s iGEM competition I discovered the use of models in Biology, which pushed me to pursue a PhD in the Department of Applied Mathematics in the Technical University of Valencia. 
+I completed my BSc in Biology and MSc in Cell Biology by the University of Valencia. During my last undergrad year I participated in synthetic biology’s iGEM competition where I dove in the use of models in Biology, which pushed me to pursue a PhD in the Department of Applied Mathematics in the Technical University of Valencia.
 
 My research on Metabolic Engineering of hydrogen in cyanobacteria led me to be visiting researcher at Uppsala University, Denmark Technical University and EMBL Heidelberg. After graduating, I decided to apply modelling techniques to Cancer using logical models, agent-based models and data deconvolution and integration, first at Institut Curie's Systems Biology department and currently at BSC's Life Sciences department.
