@@ -1,6 +1,6 @@
 +++
 title = "Personalization of Logical Models With Multi-Omics Data Allows Clinical Stratification of Patients"
-date = "2018-12-31"
+date = "2019-01-24"
 authors = ["Jonas Béal", "Arnau Montagud", "Pauline Traynard", "Emmanuel Barillot", "Laurence Calzone"]
 publication_types = ["2"]
 publication = "Frontiers in Physiology, (9), https://doi.org/10.3389/fphys.2018.01965"
@@ -21,6 +21,9 @@ url_video = ""
 url_poster = ""
 url_source = ""
 math = true
+url_custom = [
+{name = "Twitter thread", url = "https://twitter.com/ArnauMontagud/status/1088444769573888003"}]
+
 highlight = true
 [header]
 image = ""
