@@ -3,7 +3,7 @@
 date = 2018-08-26T00:00:00
 
 # Project title.
-title = "Flux Balance Analysis metabolic modelling"
+title = "Multi-objective metabolic modelling"
 
 # Project summary to display on homepage.
 summary = ""

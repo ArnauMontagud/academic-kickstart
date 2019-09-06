@@ -3,7 +3,7 @@
 date = 2018-08-26T00:00:00
 
 # Project title.
-title = "Flux Balance Analysis metabolic modelling"
+title = "Synthetic Biology"
 
 # Project summary to display on homepage.
 summary = ""
@@ -13,7 +13,7 @@ summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["metabolism"]
+tags = ["modelling"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

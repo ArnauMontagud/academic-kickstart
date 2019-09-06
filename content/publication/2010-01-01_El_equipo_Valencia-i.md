@@ -9,8 +9,8 @@ abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = []
-tags = []
+projects = ["synthetic-biology"]
+tags = ["modelling"]
 url_pdf = "http://www.matematicalia.net/index.php?option=com_wrapper&Itemid=569"
 url_preprint = ""
 url_code = ""

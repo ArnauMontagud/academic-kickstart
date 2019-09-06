@@ -9,8 +9,8 @@ abstract = "Background: The study of genome-scale metabolic models and their und
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = []
-tags = []
+projects = ["metabolism"]
+tags = ["metabolism"]
 url_pdf = "https://www.iconceptpress.com/journal/computational-and-mathematical-biology/article/?id=1402001135"
 url_preprint = ""
 url_code = ""
